@@ -75,6 +75,8 @@ to include the event in their core, if they deem it appropriate.
 
 ## Dependencies
 
+* [Array export to Excel](https://github.com/vincentsels/array-export-excel) (introduced at v1.4.0)
+
 ## How-to's
 
 ## Import data from [timecard plugin](https://github.com/mantisbt-plugins/timecard) to ProjectManagement plugin
@@ -118,4 +120,3 @@ to include the event in their core, if they deem it appropriate.
            AND 
                ut.bugnote_id = nt.id 
 ```
-* [Array export to Excel](https://github.com/vincentsels/array-export-excel) (introduced at v1.4.0)
