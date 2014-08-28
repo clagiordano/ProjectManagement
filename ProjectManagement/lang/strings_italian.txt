@@ -25,7 +25,7 @@
 	$s_plugin_ProjectManagement_hours = 'Ore';
 	$s_plugin_ProjectManagement_cost = 'Costo';
 	$s_plugin_ProjectManagement_total_cost = 'Costo totale';
-	$s_plugin_ProjectManagement_turn_on_recently_visited = 'Attiva l'opzione di configurazione \'Visualizzati di recente\' per abilitare questa funzionalità.';
+	$s_plugin_ProjectManagement_turn_on_recently_visited = 'Attiva l\'opzione di configurazione \'Visualizzati di recente\' per abilitare questa funzionalità.';
 	$s_plugin_ProjectManagement_recently_visited = 'Visualizzati di recente';
 	$s_plugin_ProjectManagement_recently_registered = 'Modificati di recente';
 	$s_plugin_ProjectManagement_day = 'Oggi';
@@ -112,7 +112,7 @@
 
 	$s_plugin_ProjectManagement_project_without_versions = 'Per visualizzare questa pagina, è necessario selezionare un progetto che contenga una versione con data di rilascio.';
 	$s_plugin_ProjectManagement_all_versions_selected = 'Per visualizzare questa pagina, è necessario selezionare un progetto specifico anzichè \'Tutti i progetti\'.';
-	$s_plugin_ProjectManagement_project_selection_disabled = 'Per visualizzare questa pagina, l'opzione di configurazione \'show_project_menu_bar\' deve essere impostata ad \'ON\'. Contatta un amministratore.';
+	$s_plugin_ProjectManagement_project_selection_disabled = 'Per visualizzare questa pagina, l\'opzione di configurazione \'show_project_menu_bar\' deve essere impostata ad \'ON\'. Contatta un amministratore.';
 
 	$s_plugin_ProjectManagement_unavailability = 'Indisponibilità';
 	$s_plugin_ProjectManagement_unavailability_types = 'Tipi indisponibilità';
